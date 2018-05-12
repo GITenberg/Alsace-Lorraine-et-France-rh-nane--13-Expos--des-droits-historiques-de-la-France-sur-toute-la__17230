@@ -1,0 +1,35 @@
+_repo: Alsace-Lorraine-et-France-rh-nane--13-Expos--des-droits-historiques-de-la-France-sur-toute-la__17230
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coubé, Stéphen
+    aliases:
+    - Coube, Stephen
+    - Coubé, S. (Stéphen)
+    birthdate: 1857
+    deathdate: 1938
+    gutenberg_agent_id: '7243'
+    url: http://www.gutenberg.org/2009/agents/7243
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2005-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17230'
+  lccn: '18017519'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alsace-Lorraine question'
+- !lcsh 'France -- Boundaries'
+- !lcc 'DD'
+- !lcsh 'Lorraine (France) -- History'
+- !lcsh 'Alsace (France) -- History'
+title: "Alsace, Lorraine et France rhénane\r\nExposé des droits historiques de la\
+  \ France sur toute la rive gauche du Rhin"
+url: http://www.gutenberg.org/ebooks/17230
